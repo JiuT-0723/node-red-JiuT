@@ -1,0 +1,19 @@
+{
+  "name": "supnode-contrib-ui-red-cross",
+  "version": "0.0.1",
+  "description": "UI display of the status of the tunnel lane indicator: red cross.",
+  "keywords": [
+    "node-red",
+    "supnode",
+    "lane indicator",
+    "red cross",
+    "ui"
+  ],
+  "author": "QianJunjie",
+  "license": "ISC",
+  "node-red": {
+    "nodes": {
+      "ui_red_cross": "ui_red_cross.js"
+    }
+  }
+}
